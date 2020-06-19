@@ -57,7 +57,7 @@ img{
     font-size: 16px;
     padding-left:15px;
     background-color: #f2f3f5;
-    font-family: 'Balsamiq Sans', cursive;
+    font-family:Arial, Helvetica, sans-serif;
 }
 #password button{
     border: none;
@@ -121,7 +121,7 @@ img{
 #copy{
     right: 0;
     bottom: 0;
-    margin: 20px;
+    margin: 0px 10px;
     position: fixed;
     font-size: medium;
 }
